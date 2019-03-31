@@ -8,3 +8,8 @@
 `export FLASK_DEBUG=1`\
 `flask run`
 - This will run the server and have debug mode on so you don't have to reload the server for each change
+
+## Tools we have been using
+- Bootstrap
+- render_template
+- url_for
